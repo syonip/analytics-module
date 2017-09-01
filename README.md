@@ -1,4 +1,6 @@
 # @nuxtjs/google-analytics
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nuxt-community/analytics-module.svg)](https://greenkeeper.io/)
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@nuxtjs/google-analytics/latest.svg?style=flat-square)](https://npmjs.com/package/@nuxtjs/google-analytics)
 [![npm](https://img.shields.io/npm/dt/@nuxtjs/google-analytics.svg?style=flat-square)](https://npmjs.com/package/@nuxtjs/google-analytics)
 [![CircleCI](https://img.shields.io/circleci/project/github/nuxt-community/analytics-module.svg?style=flat-square)](https://circleci.com/gh/nuxt-community/analytics-module)
